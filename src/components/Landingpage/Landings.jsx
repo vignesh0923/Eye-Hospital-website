@@ -6,6 +6,7 @@ import landing2 from "../../assets/landing2.jpg"
 import landing3 from "../../assets/landing3.jpg"
 
 const Landings = () => {
+    const map = "https://maps.app.goo.gl/F9tXc9Y9eduAT7887"
   return (
     <div>
         <div id="home" className="landing-container">
@@ -22,7 +23,7 @@ const Landings = () => {
                 <button><span><MdAddIcCall /></span><a href="tel:9514152671">+91 9514152671</a></button>
                 </div>  
             <div>
-            <button><span><FaLocationArrow /></span>Address: North 3rd street, Near Karthick Mahal, Pudukkottai</button>
+            <button><span><FaLocationArrow /></span><a href={map}>Address: North 3rd street, Near Karthick Mahal, Pudukkottai</a></button>
             </div>
             </div>
             </div>
