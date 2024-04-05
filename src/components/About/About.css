@@ -1,0 +1,114 @@
+
+
+.spa{
+    color: #006AFF;
+}
+
+.abt{
+    text-align: center;
+    margin-top: 7vw;
+}
+
+.abt-container{
+    width: 100%;
+    border-radius: 10px;
+    margin-top: 5vw;
+    display: flex;
+    gap: 50px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.hr{
+    width: 90%;
+    margin: 0 auto;
+}
+.leftt{
+    background: white;
+    width: 320px;
+    height: auto;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.leftt .info{
+    text-align: center;
+    padding: 5px;
+}
+
+.leftt .info h3{
+    font-weight: 500;
+    font-family: "Orelega One", serif; 
+}
+
+.leftt .info p{
+    width: 100%;
+    color: #7F7F7F;
+    font-size: 14px;
+}
+
+.leftt img{
+    border-radius: 10px 10px 0px 0px;
+    width: 320px;
+    object-fit: cover;
+    object-position: center;
+    height: 300px;
+}
+
+.contac div{
+    display: flex;
+    flex-direction: row;
+    padding: 15px 25px 5px;
+}
+
+.contac div p{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.contac{
+    padding-bottom: 30px;
+}
+
+.contac div p:first-child {
+    font-size: 25px;
+    padding-right: 20px;
+    color: #006AFF;
+}
+
+.rightt p{
+    width: 100%;
+    font-size: 21px;
+    text-align: justify;
+}
+
+.rightt{
+    width:50%;
+}
+
+
+@media (max-width:1024px) {
+    .rightt p{
+        font-size: 19px;
+    }
+
+}
+
+@media (max-width:600px) {
+    .abt-container{
+        flex-direction: column;
+    }
+
+    .rightt{
+        width: 100%;
+    }
+
+    .rightt p {
+        font-size: 15px;
+        padding: 0px 15px 0px 15px;
+    }
+}
