@@ -12,7 +12,7 @@ const Landings = () => {
         <div id="home" className="landing-container">
             <div className="right">
            <div data-aos="fade-up-right">
-            <h1>Welcome <span style={{color:"#006AFF"}}>T</span>o Adhira Aravind</h1><br />
+            <h1>Welcome <span style={{color:"#006AFF"}}>T</span>Aadhira Aravind</h1><br />
             <h1><span style={{color:"#006AFF"}}>Eye</span> Hospital, <span style={{color:"#006AFF"}}>Pudukkottai</span></h1>
            </div>
            <div data-aos="fade-up-right">
