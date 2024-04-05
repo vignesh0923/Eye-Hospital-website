@@ -24,7 +24,7 @@ const Apobanner = () => {
             <span>
               <SlNote />
             </span>
-            Appointment
+            <a href="tel:9514152671">Appointment</a>  
           </button>
         </div>
 

@@ -6,7 +6,10 @@
     width: 80%;
     font-size: 17px;
 }
-
+.btns a{
+    text-decoration: none;
+    color: white;
+}
 
 .btns{
     display: flex;

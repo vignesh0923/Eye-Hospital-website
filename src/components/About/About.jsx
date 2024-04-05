@@ -23,13 +23,14 @@ const About = () => {
           <div className="contac">
             <div>
               <p>
-                <IoMail />
+              <MdAddIcCall />
               </p>
               <p>+91 9514152671</p>
             </div>
             <div>
               <p>
-                <MdAddIcCall />
+              <IoMail />
+                
               </p>
               <p>aravind@gmail.com</p>
             </div>

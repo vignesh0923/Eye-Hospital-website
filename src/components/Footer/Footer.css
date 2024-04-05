@@ -32,6 +32,12 @@
   font-size: 20px;
 }
 
+.cont2 a{
+    text-decoration: none;
+    color: black;
+    font-weight: 300;
+}
+
 
 .cont2 h4{
     font-size: 20px;

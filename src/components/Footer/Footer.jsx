@@ -21,11 +21,11 @@ const Footer = () => {
           </div>
           <div className="cont2">
             <h4>Ouick Access</h4>
-            <p><FaAngleRight /> Home</p>
-            <p><FaAngleRight /> About Us</p>
-            <p><FaAngleRight /> Services</p>
-            <p><FaAngleRight /> Testimonial</p>
-            <p><FaAngleRight /> Contact Us</p>
+            <a href="#home"><p><FaAngleRight /> Home</p></a>
+                <a href="#our services"><p><FaAngleRight /> Our Services</p></a>
+                <a href="#About Us"><p><FaAngleRight /> About Us</p></a>
+                <a href="#Contact Us"><p><FaAngleRight /> Contact Us</p></a>
+                <a href="#Testimonial"><p><FaAngleRight /> Testimonial</p></a>
           </div>
         </div>
         <hr />

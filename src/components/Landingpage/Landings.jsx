@@ -19,7 +19,7 @@ const Landings = () => {
            </div>
            <div data-aos="fade-up-right" className="btns">
                 <div>
-                <button><span><MdAddIcCall /></span>+91 9514152671</button>
+                <button><span><MdAddIcCall /></span><a href="tel:9514152671">+91 9514152671</a></button>
                 </div>  
             <div>
             <button><span><FaLocationArrow /></span>Address: North 3rd street, Near Karthick Mahal, Pudukkottai</button>
