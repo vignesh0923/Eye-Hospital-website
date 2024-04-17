@@ -7,7 +7,7 @@ const Whychoose = () => {
         <h1  data-aos="fade-right">
           Our <span style={{ color: "#006AFF" }}>Services</span>
         </h1>
-        <p  data-aos="fade-left">
+        <p  data-aos="fade-right">
           We Provide Top Quality Coustomer Services.We have Got a Award in the
           sector.
         </p>
