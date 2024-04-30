@@ -6,13 +6,13 @@ import landing2 from "../../assets/landing2.jpg"
 import landing3 from "../../assets/landing3.jpg"
 
 const Landings = () => {
-    const map = "https://maps.app.goo.gl/F9tXc9Y9eduAT7887"
+    const map = "https://g.co/kgs/1ngqd6n"
   return (
     <div>
         <div id="home" className="landing-container">
             <div className="right">
            <div data-aos="fade-up-right">
-            <h1>Welcome <span style={{color:"#006AFF"}}>To</span> Adhira Aravind</h1><br />
+            <h1>Welcome <span style={{color:"#006AFF"}}>To</span> Aadhira Aravind</h1><br />
             <h1><span style={{color:"#006AFF"}}>Eye</span> Hospital, <span style={{color:"#006AFF"}}>Pudukkottai</span></h1>
            </div>
            <div data-aos="fade-up-right">

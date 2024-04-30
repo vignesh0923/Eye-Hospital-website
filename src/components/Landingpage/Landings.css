@@ -161,7 +161,7 @@
 @media (max-width:600px) {
     .landing-container{
         flex-direction: column;
-        justify-content: space-between;
+        justify-content: space-evenly;
         height: 120vh;
     }
     .left img{ 
